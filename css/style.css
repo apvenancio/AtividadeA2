@@ -1,0 +1,84 @@
+.logo{
+    width: 110px ;
+    height: 110px;
+    margin-right: 50px;}
+.filmes_catalogo{
+    max-width: 800px;
+    max-height: 800pxt;
+    margin: 40px;
+    border: 1px;
+    border-radius: 40px;
+    border-style:hidden;
+    box-shadow: rgba(0, 0, 0, 0.322) 10px 10px 1px;}
+.navbar{
+    color: white;
+    font-size: 30px;
+    margin-left: 40px;
+    text-align: center;}
+.fonte1{
+    color: white;
+    font-size: 30px;}
+.fonte2{
+    color: rgb(223, 4, 77);
+    font-size: 30px;}
+.fonte_principal{
+    font-size: 80px;
+    color: white;}
+.usuario_menu{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;}
+.texto_inicio{
+    margin-left: 90px;
+    margin-top: 160px;}
+.botao{
+    background-color: rgb(223, 4, 77);
+    border-radius: 20px;
+    border-style: hidden;
+    width: 200px;
+    height: 60px;
+    color: white;
+    font-size: 20px;}
+.botao2{
+    background-color: rgb(66, 18, 128);
+    border-radius: 20px;
+    border-style: hidden;
+    width: 200px;
+    height: 60px;
+    color: white;
+    font-size: 20px;}
+.informacoes_main{
+    color: white;
+    width: 500px;
+    height: 350px;
+    background-color: rgb(36, 1, 66);
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    border-radius: 25px;
+}
+.sub_texto{
+    color: rgba(255, 255, 255, 0.548);
+    font-size: 20px;
+    margin: 10px;
+}
+.segundo_fundo{
+    background-color: rgb(17, 0, 32);
+     text-align: center;
+    height: 1100px;
+}
+.titulo2{
+    color:white;
+    font-size: 65px;
+    margin: 30px;
+}
+
+.centralizar{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+/**
+FEITO POR JOAO VICTOR GOUVEIA DE AZEVEDO
+**\
